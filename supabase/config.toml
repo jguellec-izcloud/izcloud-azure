@@ -1,0 +1,7 @@
+project_id = "vhugtptivawhvronskzw"
+
+[functions.send-contact-email]
+verify_jwt = false
+
+[functions.send-gdpr-request]
+verify_jwt = false
